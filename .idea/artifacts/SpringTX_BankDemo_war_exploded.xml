@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringTX_BankDemo:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringTX_BankDemo_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringTX_BankDemo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringTX_BankDemo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
